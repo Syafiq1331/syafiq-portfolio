@@ -8,20 +8,23 @@ export default function profileSection() {
                 <SectionTitle>Profile</SectionTitle>
                 <SectionText>About me briefly</SectionText>
                 <div className="flex lg:items-center md:items-start flex-wrap mx-auto xl:w-9/12 mt-10">
-                    <div className="md:w-5/12 w-full px-10 mb-10 md:mb-0">
-                        <img src="Profile.jpg" className="w-full" alt="Foto Profile" />
-                    </div>
+                    <picture className="md:w-5/12 w-full px-10 mb-10 md:mb-0">
+                        <img src="Profile.jpg" className="w-full rounded-md" alt="Foto Profile" />
+                    </picture>
                     <div className="md:w-7/12 w-full px-10">
-                        <div>
-                            <p className="text-lg leading-relaxed">
+                        <div className="text-slate-500 font-medium">
+                            <p className="text-xl text-slate-600 leading-relaxed">
                                 Hello, I am <span className="font-bold">Rizky Fauzi</span>,
-                                <br/>
+                            </p>
+                            <p className="leading-relaxed my-2">
                                 Student at Polytechnic IDN & mentor at Pemuda Coding Academy.
                                 Currently learning Javascript & React Js. And teaching about web programming.
-                                <br/>
+                            </p>
+                            <p className="leading-relaxed my-2">
                                 Also doing research in Web Technology, physics, Cognitive Science and UI/UX Design.
                                 Founder of Pemuda Coding Academy, online learning with live mentoring
-                                <br/>
+                            </p>
+                            <p className="leading-relaxed my-2">
                                 A passionate software engineer who love to solved problems realted to technology and someone who love to make somethings with technology. I love to collaboration with each others and love to share my little bit experience to each others
                             </p>
                         </div>

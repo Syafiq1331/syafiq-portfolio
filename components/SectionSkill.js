@@ -93,7 +93,7 @@ export default function SectionSkill() {
                         <SkillCard
                             image="/skills/gulp.svg"
                             level="Beginner"
-                            name="Gulp js"
+                            name="Gulp Js"
                             imageClassName="h-16 rounded-full"
                         />
                     </div>

@@ -15,7 +15,7 @@ export default function SectionProjects() {
                             <ProjectItem
                                 image="/projects/1.png"
                                 name="Bookshelf App"
-                                description="Bookshelf App is a web application to manage your book collection. This app is built with native javascript for dicoding submission"
+                                description="Bookshelf app is a web application to manage your book collection. This app is built with native Javascript for dicoding submission"
                             />
                         </a>
                     </div>
@@ -24,7 +24,7 @@ export default function SectionProjects() {
                             <ProjectItem
                                 image="/projects/2.png"
                                 name="Faqih Portfolio"
-                                description="Faqih Portfolio is a web application to show my portfolio. This app is built with React Js & tailwindcss for css framework"
+                                description="Faqih portfolio is a web application to show my portfolio. This app is built with React Js & Tailwindcss for css framework"
                             />
                         </a>
                     </div>
@@ -33,8 +33,8 @@ export default function SectionProjects() {
                         <a href="https://syafiq1331.github.io/boostraps5_template/" target="_blank" rel="noopener noreferrer">
                             <ProjectItem
                                 image="/projects/3.png"
-                                name="Boostrap5 Template"
-                                description="Boostrap5 Template for make a blog"
+                                name="Boostrap 5 Template"
+                                description="Boostrap 5 template for make a blog"
                             />
                         </a>
                     </div>
@@ -53,7 +53,7 @@ export default function SectionProjects() {
                             <ProjectItem
                                 image="/projects/5.png"
                                 name="Quiz App"
-                                description="Quiz App is a web application to make a quiz. This app is built with native Javascript"
+                                description="Quiz app is a web application to make a quiz. This app is built with native Javascript"
                             />
                         </a>
                     </div>
@@ -72,7 +72,7 @@ export default function SectionProjects() {
                             <ProjectItem
                                 image="/projects/7.png"
                                 name="Tekaje Fest landing page"
-                                description="Tekaje Fest landing page is a landing page for Tekaje Fest. This landing page is built with bootstrap 5"
+                                description="Tekaje Fest landing page is a landing page for tekaje fest. This landing page is built with bootstrap 5"
                             />
                         </a>
                     </div>
@@ -82,7 +82,7 @@ export default function SectionProjects() {
                             <ProjectItem
                                 image="/projects/8.png"
                                 name="Pemuda Coding landing page company"
-                                description="Pemuda Coding landing page company is a landing page for Pemuda Coding. This landing page is built with next js & tailwindcss"
+                                description="Pemuda Coding landing page company is a landing page for Pemuda Coding. This landing page is built with Next Js & Tailwindcss"
                             />
                         </a>
                     </div>

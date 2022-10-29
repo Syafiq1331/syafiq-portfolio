@@ -39,7 +39,7 @@ export default function ContactSection() {
                         />
                     </div>
                 </div>
-                <div className='md:w-6/12 w-full'>
+                {/* <div className='md:w-6/12 w-full'>
                     <form className='lg:py-16 lg:px-20 md:px-14 p-10'>
                         <div className='flex flex-wrap -mx-4 '>
                             <div className='lg:w-6/12 w-full px-4'>
@@ -74,7 +74,7 @@ export default function ContactSection() {
                             <Button variant="black">Send</Button>
                         </div>
                     </form>
-                </div>
+                </div> */}
             </div>
         </section>
     )
